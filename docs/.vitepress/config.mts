@@ -66,6 +66,7 @@ export default defineConfig({
         items: [
           {text: 'Claude', link: '/pages-ai/claude'},
           {text: 'clear-cc', link: '/pages-ai/clearcc'},
+          {text: 'mcp', link: '/pages-ai/mcp'},
         ]
       }
       // {
